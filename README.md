@@ -1,4 +1,4 @@
-# cocktail-carousel
+# moe-sneakers-site
 this is a simple ecommerce application develeped with several technologies namely next.js, stripe, and sanity.io
 
 # How it works
